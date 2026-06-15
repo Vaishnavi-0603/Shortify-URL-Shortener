@@ -16,6 +16,7 @@ A full-stack URL shortener with link analytics, QR codes, custom aliases, expiry
 - [Security Features](#security-features)
 - [Deployment Guide](#deployment-guide)
 - [Sample Output](#sample-output)
+- [Demo Video](#demo-video)
 
 ---
 
@@ -841,8 +842,12 @@ url-shortener/
 }
 ```
 
----![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+---
+
+## Demo Video
+
+> 📹 [Watch the demo on Loom](https://www.loom.com/share/b2109ea816b648f28845fecac0a36e01)
+
+---
 
 This project is a part of a hackathon run by https://katomaran.com
